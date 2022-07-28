@@ -1,0 +1,22 @@
+body{
+    background-color: #46591c !important;
+}
+.content{
+    display: flex;
+    align-content: center;
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    align-items: flex-start;
+}
+.card{
+    width: 18rem;
+    background-color: #355b33 !important;
+    color: white !important;
+}
+.rowCard{
+    margin-right: 33px;
+}
+img{
+    width: 260px;
+}
